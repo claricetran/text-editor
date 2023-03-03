@@ -24,7 +24,7 @@ In order to use this text editor, go to the link above and use in browser. Alter
 
 Type into the text area any notes or code you would like. The application will automatically save when the DOM window is clicked out of.
 
-![usage image]()
+![usage image](https://github.com/claricetran/text-editor/blob/main/assets/images/textEditorUsage.gif?raw=true)
 
 ## Credit
 
